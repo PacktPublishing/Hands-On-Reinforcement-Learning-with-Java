@@ -24,7 +24,6 @@ For successful completion of this course, students will require the computer sys
 •	Java JDK 8 or later<br/>
 
 
-<br/><br/>
 ### Recommended Hardware Requirements:<br/>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <br/>
@@ -34,9 +33,6 @@ For an optimal experience with hands-on labs and other practical activities, we 
 	•	Video Card: 256MB Video Memory
 br/>
 
-<br/>
-
-<br/><br/>
 
 ## Related Products
 * [Hands-On Java Regular Expressions [Video]](https://www.packtpub.com/application-development/hands-java-regular-expressions-video)
