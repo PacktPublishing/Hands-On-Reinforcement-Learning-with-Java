@@ -31,7 +31,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 	•	Processor: I7 2.8<br/>
 	•	Memory: 16GB<br/>
 	•	Hard Disk Space: 200MB<br/>
-	•	Video Card: 256MB Video Memory<br/>
+	•	Video Card: 256MB Video Memory
 br/>
 
 <br/>
