@@ -28,10 +28,10 @@ For successful completion of this course, students will require the computer sys
 ### Recommended Hardware Requirements:<br/>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <br/>
-	•	Processor: I7 2.8
-	•	Memory: 16GB
-	•	Hard Disk Space: 200MB
-	•	Video Card: 256MB Video Memory
+	•	Processor: I7 2.8<br/>
+	•	Memory: 16GB<br/>
+	•	Hard Disk Space: 200MB<br/>
+	•	Video Card: 256MB Video Memory<br/>
 br/>
 
 <br/>
